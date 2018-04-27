@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "title": "อยากออมเงินซักเดือนละ 1000 ครับ", "postedBy": "mnosuk" },
+    { "id": 2, "title": "เป็นหนี้ครับ", "postedBy": "jbp" },
+    { "id": 3, "title": "ผมรวยยมากครับ อยากจน", "postedBy": "เต้ยม่อ พ่อทุกคน" },
+    { "id": 4, "title": "อยากมีอาชีพเสริมครับ แต่ทำงาน  7 วันเลย", "postedBy": "albatoz" },
+    { "id": 5, "title": "ตอนนี้ขายเครื่องใช้ไฟฟ้าครับ อยากลองเปลี่ยนอาชีพดู เริ่มต้นยังไงดีครับ", "postedBy": "Somkid" }
+  ],
+  "users": [
+    { "id": 1, "postedBy": "mnosuk" },
+    { "id": 2, "postedBy": "Somkid" },
+    { "id": 3, "postedBy": "jbp" },
+    { "id": 4, "postedBy": "admin" },
+    { "id": 5, "postedBy": "albatoz" }
+  ]
+}
